@@ -1,5 +1,15 @@
 # anydoclayout
-- docs layout detection
+> docs layout detection
+
+<a href="https://huggingface.co/anyforge/anydoclayout" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-blue"></a>
+<a href="https://www.modelscope.cn/models/anyforge/anydoclayout" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/%E9%AD%94%E6%90%AD-ModelScope-blue"></a>
+<a href=""><img src="https://img.shields.io/badge/Python->=3.6-aff.svg"></a>
+<a href=""><img src="https://img.shields.io/badge/OS-Linux%2C%20Win%2C%20Mac-pink.svg"></a>
+
+- Github：[anydoclayout](https://github.com/anyforge/anydoclayout)
+- Hugging Face: [anydoclayout](https://huggingface.co/anyforge/anydoclayout)
+- ModelScope: [anydoclayout](https://www.modelscope.cn/models/anyforge/anydoclayout)
+
 
 ![](./yolo11s-vis1.jpg)
 
