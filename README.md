@@ -63,3 +63,7 @@ model = YOLO(modelfile)
 res = model.predict('your img file', imgsz = 1280)
 
 ```
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=anyforge/anydoclayout&type=Date)](https://www.star-history.com/#anyforge/anydoclayout&Date)
