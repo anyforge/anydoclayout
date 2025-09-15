@@ -6,6 +6,16 @@
 <a href=""><img src="https://img.shields.io/badge/Python->=3.6-aff.svg"></a>
 <a href=""><img src="https://img.shields.io/badge/OS-Linux%2C%20Win%2C%20Mac-pink.svg"></a>
 
+```
+    _                ____             _                            _
+   / \   _ __  _   _|  _ \  ___   ___| |    __ _ _   _  ___  _   _| |_
+  / _ \ | '_ \| | | | | | |/ _ \ / __| |   / _` | | | |/ _ \| | | | __|
+ / ___ \| | | | |_| | |_| | (_) | (__| |__| (_| | |_| | (_) | |_| | |_
+/_/   \_\_| |_|\__, |____/ \___/ \___|_____\__,_|\__, |\___/ \__,_|\__|
+               |___/                             |___/
+
+```
+
 - Github：[anydoclayout](https://github.com/anyforge/anydoclayout)
 - Hugging Face: [anydoclayout](https://huggingface.co/anyforge/anydoclayout)
 - ModelScope: [anydoclayout](https://www.modelscope.cn/models/anyforge/anydoclayout)
