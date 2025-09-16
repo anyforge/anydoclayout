@@ -74,6 +74,14 @@ res = model.predict('your img file', imgsz = 1280)
 
 ```
 
+### Buy me a coffee
+
+- 微信(WeChat)
+
+<div align="left">
+    <img src="./zanshan.jpg" width="30%" height="30%">
+</div>
+
 ### Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=anyforge/anydoclayout&type=Date)](https://www.star-history.com/#anyforge/anydoclayout&Date)
